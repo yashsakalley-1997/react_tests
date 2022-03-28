@@ -1,0 +1,62 @@
+{
+    "books":
+    [
+        {   
+            "id":1,
+            "title":"Maths from ncert",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71EK+TbNJkL.jpg",
+            "description":"Nice book",
+            "reviews":[
+                "great book",
+                "awesome book"
+            ],
+            "author":"Yash Sakalley",
+            "price": 1234,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+         {  
+             "id":2,
+            "title":"Book Name1",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71EK+TbNJkL.jpg",
+            "description":"Nice book1",
+            "reviews":[
+                "great book",
+                "awesome book"
+            ],
+            "author":"Book Author1",
+            "price": 4321,
+            "section": "Technology",
+            "isbnNumber": 999999
+         },
+         {  
+             "id":3,
+            "title":"Book Name2",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71EK+TbNJkL.jpg",
+            "description":"Nice book2",
+            "reviews":[
+                "great book",
+                "awesome book"
+            ],
+            "author":"Book Author3",
+            "price": 88998,
+            "section": "history",
+            "isbnNumber": 998888
+         }
+         ,
+         {  
+            "id":4,
+           "title":"Reactttt",
+           "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71EK+TbNJkL.jpg",
+           "description":"booksssss",
+           "reviews":[
+               "great book",
+               "awesome book"
+           ],
+           "author":"Prabhanjan Pdhye",
+           "price": 100000000000,
+           "section": "Technology",
+           "isbnNumber": 998888
+        }
+    ]
+}
